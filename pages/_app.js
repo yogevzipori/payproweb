@@ -1,5 +1,12 @@
 import '../styles/globals.css'
+import RootLayout from '../app/layout.js'
+
 
 export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  return(
+<RootLayout>
+   <Component {...pageProps} />
+   </RootLayout>
+   
+  )
 }

@@ -6,6 +6,7 @@ import {
 } from "@heroicons/react/24/outline";
 import React from "react";
 
+
 const features = [
   {
     name: "Competitive rates",
@@ -33,7 +34,7 @@ const features = [
   },
 ];
 
-export default function Example() {
+export default function Page() {
   return (
     <div className="bg-white py-24 sm:py-32 lg:py-40">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">

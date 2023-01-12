@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 import Logo from "/public/logo.png";
 import Image from 'next/image';
 
@@ -9,10 +10,10 @@ import Image from 'next/image';
 
 
 const navigation = [
-  { name: "Home", href: "/" },
-  // { name: "Solutions", href: "#" },
-  { name: "About", href: "/about"},
-  { name: "Contact", href: "/contact-us" },
+  { name: "Home", href: "#" },
+  { name: "Solutions", href: "#" },
+  { name: "Contact", href: "#" },
+  { name: "About", href: "#"},
 ];
 
 
@@ -29,7 +30,7 @@ export default function Header() {
       <nav className="mx-auto max-w-7xl px-6 lg:px-8" aria-label="Top">
         <div className="flex w-full items-center justify-between border-b border-white py-4 lg:border-none">
           <div className="flex items-center">
-            <a href="/">
+            <a href="#">
               {/* <span className="sr-only">LeadPro Media</span> */}
               <Image
                 className="h-20 w-20"
