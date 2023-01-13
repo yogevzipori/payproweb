@@ -16,7 +16,7 @@ export default function Contact() {
              We are here for you
             </p>
             <p className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
-              At LeadPro Media, we specialize in helping businesses generate more leads and increase their revenue.
+            Get expert help for your business today! Lead generation and online monetization strategies. Contact us for consultation.
             </p>
 
           </div>

@@ -1,90 +1,4 @@
-// import React from 'react';
-// import Link from 'next/link';
-// import '../styles/globals.css';
-// import Header from '../app/Header';
 
-
-// export default function About() {
-//   return (
-//     <Header/>
-//     <div>
-//       <h1>About Us</h1>
-//       <p>This is the About page</p>
-//     </div>
-//   );
-// // }
-
-// import React from "react";
-// import Link from "next/link";
-// import Logo from "/public/logo.png";
-// import Image from 'next/image';
-
-
-
-
-
-
-
-// const navigation = [
-//   { name: "Home", href: "/" },
-//   { name: "Solutions", href: "#" },
-//   { name: "Contact", href: "/contact-us" },
-//   { name: "About", href: "/about"},
-// ];
-
-
-
-
-  
-      
-  
-
-
-// export default function Header() {
-//   return (
-//     <header className="bg-indigo-200">
-//       <nav className="mx-auto max-w-7xl px-6 lg:px-8" aria-label="Top">
-//         <div className="flex w-full items-center justify-between border-b border-white py-4 lg:border-none">
-//           <div className="flex items-center">
-//             <a href="/">
-//               {/* <span className="sr-only">LeadPro Media</span> */}
-//               <Image
-//                 className="h-20 w-20"
-//                 src={Logo}
-//                 alt=""
-              
-               
-                
-//               />
-//             </a>
-//             <div className="ml-10 hidden space-x-8 lg:block">
-//               {navigation.map((link) => (
-//                 <a
-//                   key={link.name}
-//                   href={link.href}
-//                   className="text-2xl font-medium text-white hover:text-indigo-50"
-//                 >
-//                   {link.name}
-//                 </a>
-//               ))}
-//             </div>
-//           </div>
-//         </div>
-//         <div className="flex flex-wrap justify-center gap-x-6 py-4 lg:hidden">
-//           {navigation.map((link) => (
-//             <a
-//               key={link.name}
-//               href={link.href}
-//               className="text-1xl font-medium text-white hover:text-indigo-50"
-//             >
-//               {link.name}
-//             </a>
-//           ))}
-//         </div>
-//       </nav>
-//     </header>
-//   );
-// }
 
 import React from 'react'
 
@@ -102,7 +16,15 @@ export default function About() {
               Leads and marketing is our specialty
             </p>
             <p className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
-              At LeadPro Media, we specialize in helping businesses generate more leads and increase their revenue.
+            At LeadPro Media LLC, we understand the importance of generating leads and driving conversions for your business. That's why we are dedicated to providing the most effective digital marketing solutions for businesses of all sizes and industries.
+
+Our team of experts are passionate about what they do, and utilize the latest technologies and data analysis techniques to identify and target the most valuable leads for our clients. We take the time to understand your unique business objectives and tailor our approach to fit your specific needs.
+
+Our services include high-quality direct traffic acquisition, advanced network traffic monetization strategies, lead nurturing tactics and detailed analytics and reporting.
+
+We are not just a vendor, but a partner in your success. We work closely with you to help you achieve your business goals, whether it's expanding your customer base, increasing sales, or building your brand.
+
+At LeadPro Media LLC, we are committed to delivering results that exceed your expectations. We invite you to contact us today for a consultation, and let us show you how we can take your business to the next level with our cutting-edge lead generation and online monetization strategies.
             </p>
 
           </div>
