@@ -1,24 +1,24 @@
-'use client';
+"use client";
 
 import React from "react";
 import "../styles/globals.css";
 import Header from "./Header";
 import Footer from "./Footer";
-
+import Page from "./page";
 
 
 export default function RootLayout({ children }) {
   return (
     // <html>
-    //   {/* <head />
-    //   <body> */}
-    <>
+    <div>
+      {/* <head /> */}
+      {/* <body> */}
         <Header />
-       <main>{children}</main> 
+        <main>{children}</main>
 
         <Footer />
-  {/* //     </body> */}
-  {/* //   </html> */}
-  </>
+       {/* </body> */}
+    {/* </html> */}
+    </div>
   );
 }

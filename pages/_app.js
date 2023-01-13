@@ -1,7 +1,7 @@
 import React from "react";
 import '../styles/globals.css'
 import RootLayout from '../app/layout.js'
-import Page from "./home";
+import Page from "../app/home";
 
 
 
