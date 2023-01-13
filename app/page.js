@@ -42,12 +42,12 @@ export default function Page() {
           <h2 className="text-3xl font-semibold leading-8 text-indigo-600">
             Welcome to LeadPro Media 
           </h2>
-          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          <div className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
             A better way to acquire more customers
-          </p>
-          <p className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
+          </div>
+          <div className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
           At LeadPro Media, we specialize in helping businesses generate more leads and increase their revenue. We understand the importance of attracting potential customers and converting them into paying clients. That's why we offer a range of services, including email marketing, social media advertising, and content marketing, all designed to drive traffic to your website and convert visitors into leads. Our team of experts has a wealth of experience in lead generation and knows how to effectively reach and persuade potential clients. Trust LeadPro Media to help your company achieve its growth goals and maximize its earning potential.
-          </p>
+          </div>
         </div>
 
         <div className="mt-20 max-w-lg sm:mx-auto md:max-w-none">
@@ -61,12 +61,12 @@ export default function Page() {
                   <feature.icon className="h-8 w-8" aria-hidden="true" />
                 </div>
                 <div className="sm:min-w-0 sm:flex-1">
-                  <p className="text-lg font-semibold leading-8 text-gray-900">
+                  <div className="text-lg font-semibold leading-8 text-gray-900">
                     {feature.name}
-                  </p>
-                  <p className="mt-2 text-base leading-7 text-gray-600">
+                  </div>
+                  <div className="mt-2 text-base leading-7 text-gray-600">
                     {feature.description}
-                  </p>
+                  </div>
                 </div>
               </div>
             ))}

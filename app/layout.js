@@ -1,16 +1,9 @@
 import React from "react";
 import "../styles/globals.css";
-// import Header from "./Header";
-// import Footer from "./Footer";
-import dynamic from 'next/dynamic';
+import Header from "./Header";
+import Footer from "./Footer";
 
-const DynamicHeader = dynamic(() => import('./Header'), {
-  loading: () => 'Loading...',
-})
 
-const DynamicFooter= dynamic(() => import('./Footer'), {
-  loading: () => 'Loading...',
-})
 
 export default function RootLayout({ children }) {
   return (
@@ -18,10 +11,10 @@ export default function RootLayout({ children }) {
     //   {/* <head />
     //   <body> */}
     <>
-        <DynamicHeader />
+        <Header />
        <main>{children}</main> 
 
-        <DynamicFooter />
+        <Footer />
   {/* //     </body> */}
   {/* //   </html> */}
   </>
