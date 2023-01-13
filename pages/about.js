@@ -4,7 +4,7 @@ import React from 'react'
 
 export default function About() {
   return (
-  
+  <div>
       <div className="bg-white py-24 sm:py-32 lg:py-40">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="sm:text-center">
@@ -25,7 +25,7 @@ We are not just a vendor, but a partner in your success. We work closely with yo
 
 At LeadPro Media LLC, we are committed to delivering results that exceed your expectations. We invite you to contact us today for a consultation, and let us show you how we can take your business to the next level with our cutting-edge lead generation and online monetization strategies.
             </div>
-
+            </div>
           </div>
         </div>
       </div>

@@ -4,7 +4,7 @@ import React from "react";
 import "../styles/globals.css";
 import Header from "./Header";
 import Footer from "./Footer";
-import Page from "./page";
+
 
 
 export default function RootLayout({ children }) {
