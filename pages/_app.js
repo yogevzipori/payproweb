@@ -1,13 +1,16 @@
 import React from "react";
-import Page from "../app/page";
 import '../styles/globals.css'
 import RootLayout from '../app/layout.js'
+import Page from "./home";
 
 
- function App({ Component, pageProps }) {
+
+export default function App({ Component, pageProps }) {
   return(
 <RootLayout>
+
  <Component {...pageProps} />
+   
    </RootLayout>
   )
 }

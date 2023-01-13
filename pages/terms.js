@@ -42,6 +42,9 @@
 // </style>
 
 //       <div data-custom-class="body">
+'use client';
+
+
 import React from 'react'
 
 export default function terms() {
