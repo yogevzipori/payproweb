@@ -12,10 +12,10 @@ export default function About() {
             <h1 className="text-3xl font-semibold leading-8 text-indigo-600">
               This is our story
             </h1>
-            <p className="mt-2 text-xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+            <div className="mt-2 text-xl font-bold tracking-tight text-gray-900 sm:text-4xl">
               Leads and marketing is our specialty
-            </p>
-            <p className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
+            </div>
+            <div className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
             At LeadPro Media LLC, we understand the importance of generating leads and driving conversions for your business. That's why we are dedicated to providing the most effective digital marketing solutions for businesses of all sizes and industries.
 
 Our team of experts are passionate about what they do, and utilize the latest technologies and data analysis techniques to identify and target the most valuable leads for our clients. We take the time to understand your unique business objectives and tailor our approach to fit your specific needs.
@@ -25,7 +25,7 @@ Our services include high-quality direct traffic acquisition, advanced network t
 We are not just a vendor, but a partner in your success. We work closely with you to help you achieve your business goals, whether it's expanding your customer base, increasing sales, or building your brand.
 
 At LeadPro Media LLC, we are committed to delivering results that exceed your expectations. We invite you to contact us today for a consultation, and let us show you how we can take your business to the next level with our cutting-edge lead generation and online monetization strategies.
-            </p>
+            </div>
 
           </div>
         </div>

@@ -14,12 +14,12 @@ export default function Contact() {
             <h1 className="text-3xl font-semibold leading-8 text-indigo-600">
               Contact us 
             </h1>
-            <p className="mt-2 text-xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+            <div className="mt-2 text-xl font-bold tracking-tight text-gray-900 sm:text-4xl">
              We are here for you
-            </p>
-            <p className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
+            </div>
+            <div className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
             Get expert help for your business today! Lead generation and online monetization strategies. Contact us for consultation.
-            </p>
+            </div>
 
           </div>
         </div>
