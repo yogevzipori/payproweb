@@ -4,12 +4,11 @@ import '../styles/globals.css'
 import RootLayout from '../app/layout.js'
 
 
-export default function App({ Component, pageProps }) {
+ const App = ({ Component, pageProps }) => {
   return(
 <RootLayout>
-  <Page/>
  <Component {...pageProps} />
-   
    </RootLayout>
   )
 }
+export default App
