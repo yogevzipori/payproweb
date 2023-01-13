@@ -5,7 +5,7 @@ import React from 'react'
 import Home from '/pages/home.js'
 
 
-function Page() {
+export default function Page() {
   const router = useRouter();
   return (
     <div>
@@ -14,4 +14,3 @@ function Page() {
   )
 }
 
-export default Page
