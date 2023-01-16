@@ -1,7 +1,4 @@
 
-'use client';
-
-
 
 import React from "react";
 
@@ -98,6 +95,7 @@ const footnav = {
 
 export default function Footer() {
   return (
+    <>
     <footer  className="bg-white" aria-labelledby="footer-heading">
       <h2 id="footer-heading" className="sr-only">
         Footer
@@ -166,5 +164,6 @@ export default function Footer() {
         </div>
       </div>
     </footer>
+    </>
   ) 
 }

@@ -1,8 +1,8 @@
-'use client';
 
 import React from "react";
-import Logo from "/public/logo.png";
+// import logo from "..public";
 import Image from 'next/image';
+import logo from "/public/logo.png"
 
 
 
@@ -26,20 +26,26 @@ const navigation = [
 
 export default function Header() {
   return (
+  <>
     <header className="bg-indigo-200">
       <nav className="mx-auto max-w-7xl px-6 lg:px-8" aria-label="Top">
         <div className="flex w-full items-center justify-between border-b border-white py-4 lg:border-none">
           <div className="flex items-center">
             <a href="/">
               {/* <span className="sr-only">LeadPro Media</span> */}
+              <div>
               <Image
                 className="h-20 w-20"
-                src={Logo}
-                alt=""
+                src={logo}
+                width={80}
+                height={80}
+                alt="Logo"
+               
               
                
                 
               />
+              </div>
             </a>
             <div className="ml-10 hidden space-x-8 lg:block">
               {navigation.map((link) => (
@@ -67,5 +73,6 @@ export default function Header() {
         </div>
       </nav>
     </header>
+    </>
   );
 }

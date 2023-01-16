@@ -1,18 +1,7 @@
-'use client';
 
-
-import React from 'react'
-import Home from './home';
-import About from '../pages/about';
-
-
+import React from "react";
+import Link from "next/link";
 
 export default function Page() {
- 
-  return (
-    <div>
-  <Home/>
-    </div>
-  )
+  return <Link href="../app/home.js">Homepage</Link>;
 }
-

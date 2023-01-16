@@ -1,4 +1,3 @@
-"use client";
 
 import React from "react";
 import "../styles/globals.css";
@@ -9,16 +8,17 @@ import Footer from "./Footer";
 
 export default function RootLayout({ children }) {
   return (
-    // <html>
-    <div>
-      {/* <head /> */}
-      {/* <body> */}
+    <>
+     <html>
+   
+      <head />
+      <body>
         <Header />
         <main>{children}</main>
 
         <Footer />
-       {/* </body> */}
-    {/* </html> */}
-    </div>
+       </body>
+      </html>
+      </>
   );
 }

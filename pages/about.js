@@ -4,6 +4,7 @@ import React from 'react'
 
 export default function About() {
   return (
+    <>
   <div>
       <div className="bg-white py-24 sm:py-32 lg:py-40">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -30,6 +31,6 @@ At LeadPro Media LLC, we are committed to delivering results that exceed your ex
         </div>
       </div>
      
-      
+      </>
      
   )}
