@@ -1,7 +1,12 @@
 
 import React from "react";
 import Link from "next/link";
+import Home from "./home";
+
 
 export default function Page() {
-  return <Link href="../app/home.js">Homepage</Link>;
-}
+  
+
+  return  <Home/> 
+  
+};
