@@ -9,7 +9,9 @@ const navigation = [
   // { name: 'Solutions', href: '#' },
   { name: 'Home', href: "/" },
   { name: 'About', href: "/about" },
-  { name: 'Contact', href: "/contact" },
+  { name: 'Contact Us', href: "/contact" },
+  { name: 'Privacy Policy', href: "/contact" },
+  { name: 'Terms & Conditions', href: "/contact" },
 ]
 
 export default function Nav() {
