@@ -5,7 +5,6 @@ import Image from "next/image";
 import React from "react";
 import "../styles/globals.css";
 
-
 const navigation = [
   // { name: 'Solutions', href: '#' },
   { name: 'Home', href: "/" },
@@ -45,7 +44,7 @@ export default function Nav() {
               Sign in
             </a> */}
             <a
-              href="#"
+              href= "/sign"
               className="inline-block rounded-md border border-transparent bg-white py-2 px-4 text-base font-medium text-indigo-600 hover:bg-indigo-50"
             >
               Sign in
