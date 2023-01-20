@@ -14,12 +14,12 @@ export default function Privacy() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="sm:text-center">
             <h1 className="text-3xl font-semibold leading-8 text-indigo-600">
-            PRIVACY NOTICE
+            Privacy Notice
             </h1>
             <div className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
             </div>
             <div className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
-            PRIVACY NOTICE
+           
 
 Last updated January 11, 2023
 
@@ -29,8 +29,8 @@ This privacy notice for LeadPro Media LLC ("Company," "we," "us," or "our"), des
 Visit our website at http://www.LeadProMediaLLC.com, or any website of ours that links to this privacy notice
 Engage with us in other related ways, including any sales, marketing, or events
 Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at yogevzipori@gmail.com.
-
-
+<br></br>
+<br></br>
 SUMMARY OF KEY POINTS
 
 This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click here to go directly to our table of contents.
@@ -52,10 +52,10 @@ What are your rights? Depending on where you are located geographically, the app
 How do you exercise your rights? The easiest way to exercise your rights is by filling out our data subject request form available here, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what LeadPro Media LLC does with any information we collect? Click here to review the notice in full.
-
-
+<br></br>
+<br></br>
 TABLE OF CONTENTS
-
+<br></br>
 1. WHAT INFORMATION DO WE COLLECT?
 2. HOW DO WE PROCESS YOUR INFORMATION?
 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
@@ -72,7 +72,7 @@ TABLE OF CONTENTS
 14. DO WE MAKE UPDATES TO THIS NOTICE?
 15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
-
+<br></br>
 
 1. WHAT INFORMATION DO WE COLLECT?
 
@@ -119,7 +119,7 @@ Information collected from other sources
 In Short: We may collect limited data from public databases, marketing partners, social media platforms, and other outside sources.
 
 In order to enhance our ability to provide relevant marketing, offers, and services to you and update our records, we may obtain information about you from other sources, such as public databases, joint marketing partners, affiliate programs, data providers, social media platforms, and from other third parties. This information includes mailing addresses, job titles, email addresses, phone numbers, intent data (or user behavior data), Internet Protocol (IP) addresses, social media profiles, social media URLs, and custom profiles, for purposes of targeted advertising and event promotion. If you interact with us on a social media platform using your social media account (e.g., Facebook or Twitter), we receive personal information about you such as your name, email address, and gender. Any personal information that we collect from your social media account depends on your social media account's privacy settings.
-
+<br></br>
 2. HOW DO WE PROCESS YOUR INFORMATION?
 
 In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
@@ -144,7 +144,7 @@ To evaluate and improve our Services, products, marketing, and your experience. 
 To identify usage trends. We may process information about how you use our Services to better understand how they are being used so we can improve them.
 To determine the effectiveness of our marketing and promotional campaigns. We may process your information to better understand how to provide marketing and promotional campaigns that are most relevant to you.
 To comply with our legal obligations. We may process your information to comply with our legal obligations, respond to legal requests, and exercise, establish, or defend our legal rights.
-
+<br></br>
 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
 In Short: We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.
@@ -165,7 +165,7 @@ If disclosure is required to comply with a subpoena, warrant, court order, or ru
 If it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced
 If the collection is solely for journalistic, artistic, or literary purposes
 If the information is publicly available and is specified by the regulations
-
+<br></br>
 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
 In Short: We may share information in specific situations described in this section and/or with the following categories of third parties.
@@ -195,19 +195,19 @@ Business Transfers. We may share or transfer your information in connection with
 When we use Google Maps Platform APIs. We may share your information with certain Google Maps Platform APIs (e.g., Google Maps API, Places API). To find out more about Google’s Privacy Policy, please refer to this link. We obtain and store on your device ("cache") your location. You may revoke your consent anytime by contacting us at the contact details provided at the end of this document.
 Affiliates. We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy notice. Affiliates include our parent company and any subsidiaries, joint venture partners, or other companies that we control or that are under common control with us.
 Business Partners. We may share your information with our business partners to offer you certain products, services, or promotions.
-
+<br></br>
 5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 
 In Short: We are not responsible for the safety of any information that you share with third parties that we may link to or who advertise on our Services, but are not affiliated with, our Services.
 
 The Services may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.
-
+<br></br>
 6. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
 In Short: We may use cookies and other tracking technologies to collect and store your information.
 
 We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
-
+<br></br>
 7. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
 
 In Short: If you choose to register or log in to our Services using a social media account, we may have access to certain information about you.
@@ -215,7 +215,7 @@ In Short: If you choose to register or log in to our Services using a social med
 Our Services offer you the ability to register and log in using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, and profile picture, as well as other information you choose to make public on such a social media platform.
 
 We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant Services. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use, and share your personal information, and how you can set your privacy preferences on their sites and apps.
-
+<br></br>
 8. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
@@ -223,19 +223,19 @@ In Short: We keep your information for as long as necessary to fulfill the purpo
 We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than twelve (12) months past the termination of the user's account.
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
-
+<br></br>
 9. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 In Short: We aim to protect your personal information through a system of organizational and technical security measures.
 
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
-
+<br></br>
 10. DO WE COLLECT INFORMATION FROM MINORS?
 
 In Short: We do not knowingly collect data from or market to children under 18 years of age.
 
 We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at admin@leadpromediallc.com.
-
+<br></br>
 11. WHAT ARE YOUR PRIVACY RIGHTS?
 
 In Short: In some regions, such as Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
@@ -279,10 +279,10 @@ If you are under 18 years of age, reside in California, and have a registered ac
 CCPA Privacy Notice
 
 The California Code of Regulations defines a "resident" as:
-
+<br></br>
 (1) every individual who is in the State of California for other than a temporary or transitory purpose and
 (2) every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose
-
+<br></br>
 All other individuals are defined as "non-residents."
 
 If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.
@@ -351,17 +351,17 @@ L. Sensitive Personal Information	Contents of email or text messages, debit or c
 
 YES
  
-
+<br></br>
 We will use and retain the collected personal information as needed to provide the Services or for:
 Category L - As long as the user has an account with us
 Category L information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You have the right to limit the use or disclosure of your sensitive personal information.
-
+<br></br>
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
 Receiving help through our customer support channels;
 Participation in customer surveys or contests; and
 Facilitation in the delivery of our Services and to respond to your inquiries.
 How do we use and share your personal information?
-
+<br></br>
 LeadPro Media LLC collects and shares your personal information through:
 Targeting cookies/Marketing cookies
 Social media cookies
@@ -384,9 +384,9 @@ We may use your personal information for our own business purposes, such as for 
 
 LeadPro Media LLC  has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:
 
+<br></br>
 
-
-
+<br></br>
 
 
 
@@ -403,9 +403,9 @@ LeadPro Media LLC  has sold or shared the following categories of personal infor
 
 
 
+<br></br>
 
-
-
+<br></br>
 
 
 
@@ -416,7 +416,7 @@ Data Analytics Services
 Retargeting Platforms
 Social Networks
 User Account Registration & Authentication Services
-
+<br></br>
 The categories of third parties to whom we shared personal information with are:
 Ad Networks
 Affiliate Marketing Programs
@@ -432,7 +432,7 @@ Right to request deletion of the data — Request to delete
 You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.
 
 Right to be informed — Request to know
-
+<br></br>
 Depending on the circumstances, you have a right to know:
 whether we collect and use your personal information;
 the categories of personal information that we collect;
@@ -449,7 +449,7 @@ Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
 We will not discriminate against you if you exercise your privacy rights.
 
 Right to Limit Use and Disclosure of Sensitive Personal Information
-
+<br></br>
 If the business collects any of the following:
 social security information, drivers' licenses, state ID cards, passport numbers
 account login information
@@ -472,7 +472,8 @@ Verification process
 Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g., phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
 
 We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.
-
+<br></br>
+<br></br>
 Other privacy rights
 You may object to the processing of your personal information.
 You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
@@ -488,16 +489,19 @@ We may update this privacy notice from time to time. The updated version will be
 15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), Yogev Zipori , by email at admin@leadpromediallc.com, by phone at 7024436800, or by post to:
-
+<br></br>
 LeadPro Media LLC
 Yogev Zipori
 1125 Via Canale Dr
 Henderson , NV 89011
 United States
+<br></br>
 
 16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
-
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request form by clicking here.
+<br></br>
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request form by <Link href="/reqform" className="font-medium text-gray-700 underline" target="_blank">
+clicking here.
+                  </Link>
             </div>
           </div>
         </div>
