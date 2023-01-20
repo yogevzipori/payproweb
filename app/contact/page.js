@@ -17,7 +17,7 @@ export default function Contact() {
             </div>
             <div className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
               Get expert help for your business today!<br></br>Lead generation
-              and online monetization strategies.<br></br>Contact us for
+              and online monetization strategies.<br></br>Contact us for a
               consultation today.
               <br></br>
               Fill out our contact form or contact us via our email at
