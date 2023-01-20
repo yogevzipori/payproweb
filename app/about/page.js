@@ -9,7 +9,7 @@ export default function About() {
             <h1 className="text-3xl font-semibold leading-8 text-indigo-600">
               This is our story
             </h1>
-            <div className="mt-2 text-xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+            <div className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
               Leads and marketing is our specialty
             </div>
             <div className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
