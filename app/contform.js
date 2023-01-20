@@ -3,6 +3,7 @@
 import React from "react";
 import { useState } from 'react'
 import { Switch } from '@headlessui/react'
+import Link from 'next/link'
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
@@ -186,9 +187,9 @@ export default function Contform() {
               <div className="ml-3">
                 <p className="text-base text-gray-500">
                   By selecting this, you agree to the{' '}
-                  <a href="#" className="font-medium text-gray-700 underline">
+                  <Link href="https://app.termly.io/document/privacy-policy/26168f6e-6ded-402d-96ed-00150cee6b77" className="font-medium text-gray-700 underline" target="_blank">
                     Privacy Policy
-                  </a>{' '}
+                  </Link>{' '}
                   and{' '}
                   <a href="#" className="font-medium text-gray-700 underline">
                     Cookie Policy
