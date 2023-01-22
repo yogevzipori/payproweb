@@ -1,6 +1,8 @@
 "use client";
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
+
 
 import {
   EnvelopeIcon,
@@ -9,7 +11,8 @@ import {
 
 export default function Contact() {
   return (
-    <>
+  
+    <div>
       <div className="bg-white py-24 sm:py-32 lg:py-40">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="sm:text-center">
@@ -57,8 +60,20 @@ export default function Contact() {
             </div>
           </div>
         </div>
+        <div className='bg-white w-full flex justify-center mt-8 mx-auto '>
+            
+                  <p>
+                    <Image
+                      src="/contact.jpeg"
+                      width={600}
+                      height={400}
+                      quality={50}
+                      alt="contactuspic"
+                    />
+                  </p>
+                </div>
       </div>
-      <div></div>
-    </>
+      </div>
+   
   );
 }
