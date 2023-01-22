@@ -11,7 +11,7 @@ const navigation = [
   { name: 'About', href: "/about" },
   { name: 'Contact Us', href: "/contact" },
   { name: 'Privacy Policy', href: "/privacy" },
-  { name: 'Terms & Conditions', href: "/contact" },
+  { name: 'Terms & Conditions', href: "/terms" },
 ]
 
 export default function Nav() {

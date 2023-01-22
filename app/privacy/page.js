@@ -1,10 +1,6 @@
 
 import React from 'react'
 import Link from 'next/link'
-import {
-  EnvelopeIcon,
- 
-} from "@heroicons/react/24/outline";
 
 
 
@@ -26,7 +22,8 @@ export default function Privacy() {
 
 Last updated January 11, 2023
 
-
+<br></br>
+<br></br>
 
 This privacy notice for LeadPro Media LLC ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 Visit our website at http://www.LeadProMediaLLC.com, or any website of ours that links to this privacy notice
@@ -496,7 +493,7 @@ If you have questions or comments about this notice, you may contact our Data Pr
 
 16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 <br></br>
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. <p>To request to review, update, or delete your personal information, please send us an email with your information  <Link  href="mailto:Admin@LeadProMediaLLC.com"
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. <p>To request to review, update, or delete your personal information, please send us an email with your information by <Link  href="mailto:Admin@LeadProMediaLLC.com"
                     style={{ textDecoration: "underline", color: "blue" }} className="font-medium text-gray-700 underline" target="_blank">
 clicking here.
                   </Link>
