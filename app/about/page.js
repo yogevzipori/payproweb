@@ -16,22 +16,25 @@ export default function About() {
               At LeadPro Media LLC, we understand the importance of generating
               leads and driving conversions for your business. This is why we
               are dedicated to providing the most effective digital marketing
-              solutions for businesses of all sizes and industries. Our team of
+              solutions for businesses of all sizes and industries.                                   
+              <p>Our team of
               experts are passionate about what they do, and utilize the latest
               technologies and data analysis techniques to identify and target
               the most valuable leads for our clients. We take the time to
               understand your unique business objectives and tailor our approach
-              to fit your specific needs. Our services include high-quality
+              to fit your specific needs.</p>
+              Our services include high-quality
               direct traffic acquisition, advanced network traffic monetization
               strategies, lead nurturing tactics and detailed analytics and
-              reporting. We are not just a vendor, but a partner in your
+              reporting.We are not just a vendor, but a partner in your
               success. We work closely with you to help you achieve your
               business goals, whether its expanding your customer base,
-              increasing sales, or building your brand. At LeadPro Media LLC, we
+              increasing sales, or building your brand.
+              LeadPro Media LLC, we
               are committed to delivering results that exceed your expectations.
-              We invite you to contact us today for a consultation, and let us
+               <p>We invite you to contact us today for a consultation, and let us
               show you how we can take your business to the next level with our
-              cutting-edge lead generation and online monetization strategies.
+              cutting-edge lead generation and online monetization strategies.</p>
             </div>
           </div>
         </div>

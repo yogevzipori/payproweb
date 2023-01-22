@@ -1,7 +1,11 @@
+"use client";
 import React from "react";
 import Link from "next/link";
 
-import Contform from "../contform";
+import {
+  EnvelopeIcon,
+ 
+} from "@heroicons/react/24/outline";
 
 export default function Contact() {
   return (
@@ -16,23 +20,45 @@ export default function Contact() {
               Have a question?
             </div>
             <div className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
-              Get expert help for your business today!<br></br>Lead generation
-              and online monetization strategies.<br></br>Contact us for a
-              consultation today.
-              <br></br>
-              Fill out our contact form or contact us via our email at
-              <Link href="mailto:Admin@LeadProMediaLLC.com">
-                <div>Admin@LeadProMediaLLC.com</div>
-              </Link>
-              Or call us at anytime at
-              <Link href="tel:702-443-6800">
-                <div>702-443-6800</div>
-              </Link>
-              <Contform />
+              <p>
+                Don't miss out on the opportunity to take your business to the
+                next level. Get expert help for your business today! Contact us
+                today for a consultation and learn how we can assist you with
+                lead generation and online monetization strategies. We are
+                available to answer any questions you may have.
+                <p>
+                  <Link
+                    href="mailto:Admin@LeadProMediaLLC.com"
+                    style={{ textDecoration: "underline", color: "blue" }}
+                  >
+                    <span> Email </span>
+                  </Link>
+                  us today and let's work together to drive your business
+                  forward.
+                </p>
+              </p>
+              <dl className="mt-8 space-y-6">
+                <dt>
+                  <span className="sr-only">Email</span>
+                </dt>
+                <dd className="flex justify-center text-base text-indigo-600">
+                  <EnvelopeIcon
+                    className="h-6 w-6 flex-shrink-0 text-indigo-600"
+                    aria-hidden="true"
+                  />
+                  <Link
+                    href="mailto:admin@LeadProMediaLLC.com"
+                    className="ml-3"
+                  >
+                    admin@LeadProMediaLLC.com
+                  </Link>
+                </dd>
+              </dl>
             </div>
           </div>
         </div>
       </div>
+      <div></div>
     </>
   );
 }

@@ -1,7 +1,10 @@
 
 import React from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation';
+import {
+  EnvelopeIcon,
+ 
+} from "@heroicons/react/24/outline";
 
 
 
@@ -366,8 +369,8 @@ LeadPro Media LLC collects and shares your personal information through:
 Targeting cookies/Marketing cookies
 Social media cookies
 Beacons/Pixels/Tags
-Click redirects: __________.
-Social media plugins: __________. We use social media features, such as a "Like" button, and widgets, such as a "Share" button, in our Services. Such features may process your Internet Protocol (IP) address and track which page you are visiting on our website. We may place a cookie to enable the feature to work correctly. If you are logged in on a certain social media platform and you interact with a widget or button belonging to that social media platform, this information may be recorded to your profile of such social media platform. To avoid this, you should log out from that social media platform before accessing or using the Services. Social media features and widgets may be hosted by a third party or hosted directly on our Services. Your interactions with these features are governed by the privacy notices of the companies that provide them. By clicking on one of these buttons, you agree to the use of this plugin and consequently the transfer of personal information to the corresponding social media service. We have no control over the essence and extent of these transmitted data or their additional processing.
+Click redirects.
+Social media plugins. We use social media features, such as a "Like" button, and widgets, such as a "Share" button, in our Services. Such features may process your Internet Protocol (IP) address and track which page you are visiting on our website. We may place a cookie to enable the feature to work correctly. If you are logged in on a certain social media platform and you interact with a widget or button belonging to that social media platform, this information may be recorded to your profile of such social media platform. To avoid this, you should log out from that social media platform before accessing or using the Services. Social media features and widgets may be hosted by a third party or hosted directly on our Services. Your interactions with these features are governed by the privacy notices of the companies that provide them. By clicking on one of these buttons, you agree to the use of this plugin and consequently the transfer of personal information to the corresponding social media service. We have no control over the essence and extent of these transmitted data or their additional processing.
 More information about our data collection and sharing practices can be found in this privacy notice.
 
 You can opt out from the selling or sharing of your personal information by disabling cookies in Cookie Preference Settings and clicking on the Do Not Sell or Share My Personal Information link on our homepage.
@@ -488,20 +491,16 @@ We may update this privacy notice from time to time. The updated version will be
 
 15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), Yogev Zipori , by email at admin@leadpromediallc.com, by phone at 7024436800, or by post to:
-<br></br>
-LeadPro Media LLC
-Yogev Zipori
-1125 Via Canale Dr
-Henderson , NV 89011
-United States
+If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), Yogev Zipori , by email at admin@leadpromediallc.com, by phone at 7024436800.
 <br></br>
 
 16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 <br></br>
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request form by <Link href="/reqform" className="font-medium text-gray-700 underline" target="_blank">
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. <p>To request to review, update, or delete your personal information, please send us an email with your information  <Link  href="mailto:Admin@LeadProMediaLLC.com"
+                    style={{ textDecoration: "underline", color: "blue" }} className="font-medium text-gray-700 underline" target="_blank">
 clicking here.
                   </Link>
+                  </p>
             </div>
           </div>
         </div>
@@ -514,13 +513,3 @@ clicking here.
 }
 
 
-
-//  const privacyPage = ()  => {
-  
-//   return (
-//     <div>   
-// <button type="button" onClick={() => router.push("https://app.termly.io/document/privacy-policy/26168f6e-6ded-402d-96ed-00150cee6b77")}>
-//       Dashboard
-//     </button>
-//     </div> )
-// }
