@@ -6,6 +6,7 @@ import Image from "next/image";
 
 import {
   EnvelopeIcon,
+  BuildingOfficeIcon,
  
 } from "@heroicons/react/24/outline";
 
@@ -56,6 +57,22 @@ export default function Contact() {
                     admin@LeadProMediaLLC.com
                   </Link>
                 </dd>
+
+                <dt>
+                  <span className="sr-only">Address</span>
+                </dt>
+                <dd className="flex justify-center ml-3  text-base text-indigo-600">
+                 <BuildingOfficeIcon
+                    className="h-6 w-6 flex-shrink-0 text-indigo-600"
+                    aria-hidden="true"
+                  />
+                <div className="ml-3">
+                1125 Via Canale Dr
+                Henderson NV 89011 
+                United States of America 
+                </div>
+            
+                </dd>
               </dl>
             </div>
           </div>
@@ -77,3 +94,7 @@ export default function Contact() {
    
   );
 }
+
+
+
+
