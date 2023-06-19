@@ -25,7 +25,7 @@ export default function Contact() {
             </div>
             <div className="mx-auto mt-6 max-w-2xl text-md leading-7 text-gray-600">
               <p>
-                Don't miss out on the opportunity to take your business to the
+                Dont miss out on the opportunity to take your business to the
                 next level. Get expert help for your business today! Contact us
                 today for a consultation and learn how we can assist you with
                 lead generation and online monetization strategies. We are
@@ -37,7 +37,7 @@ export default function Contact() {
                   >
                     <span> Email </span>
                   </Link>
-                  us today and let's work together to drive your business
+                  us today and lets work together to drive your business
                   forward.
                 </p>
               </p>

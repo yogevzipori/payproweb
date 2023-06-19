@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 
 import React from 'react'
 import Link from 'next/link'
@@ -23,8 +24,9 @@ export default function Privacy() {
 Last updated January 11, 2023
 
 <br></br>
+“Some of the web search services provided herein are provided by CodeFuel and powered by CodeFuel’s search partners. For information on the web search services data collection, please visit http://www.codefuel.com/legal/end_user_privacy_policy, and the search provider's privacy policy, as applicable, both as updated from time to time and at any successor locations.”
 <br></br>
-
+<br></br>
 This privacy notice for LeadPro Media LLC ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 Visit our website at http://www.LeadProMediaLLC.com, or any website of ours that links to this privacy notice
 Engage with us in other related ways, including any sales, marketing, or events
